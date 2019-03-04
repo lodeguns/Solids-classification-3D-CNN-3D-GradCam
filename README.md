@@ -6,12 +6,12 @@ The source is written in tensorflow/python.
 We implemented a 3D GradCam model, in order to underline the most relevant 3D volumes of the original image that are useful for the classification.
 
 
-## Solid Generator
+### Solid Generator
 This script generates solids and octahedra depending on the max size of the solid and its diameter. The positions (x,y,z) in the space NxNxN are given randomly and the voxels intensities inside the solid are chosen randomly.
 
-''' 
+``` 
 python2 solid_generator.py
-
+```
 
 
 
