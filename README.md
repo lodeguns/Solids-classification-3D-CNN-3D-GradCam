@@ -16,7 +16,7 @@ Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
 
 ### Model and running
-the model and the training is written in the script v0.3 on a Jupyter Notebook.
+The model and the training is written in the script v0.3 on a Jupyter Notebook.
 
 We have done the experiment on a NVIDIA GeForce 1070 and with this environment:
 ``` 
