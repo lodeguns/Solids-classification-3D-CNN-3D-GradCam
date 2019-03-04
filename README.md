@@ -15,10 +15,12 @@ python2 solid_generator.py
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
 
-### Classifications with TensorFlow
-We run the script v0.3 on a Jupyter Notebook,  on a NVIDIA GeForce 1070 and under this environment:
+### Model and running
+the model and the training is written in the script v0.3 on a Jupyter Notebook.
+
+We have done the experiment on a NVIDIA GeForce 1070 and with this environment:
 ``` 
-Tensorflow working version: 1.8.0
+Tensorflow version: 1.8.0
 Python version: 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44) 
 [GCC 7.3.0]
 ``` 
