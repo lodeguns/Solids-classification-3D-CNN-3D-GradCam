@@ -20,6 +20,9 @@ Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
 
 ### Model and Execution
+
+The problem is so simple that reach the 100% of accuracy in the test set on the 4th epoch. 
+
 The model and the training is written in the script_v0.3 on a Jupyter Notebook.
 
 We have done the experiment on a **NVIDIA GeForce 1070**.
@@ -32,9 +35,6 @@ Python version: 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
 ``` 
 
 
-Set in your experiment the folders: data_solid, test_solid, labels_solid.
-
-The problem is so simple that reach the 100% of accuracy on the test set in the 4th epoch. 
 
 ### Test the features
 Once you run the model, in the training are saved all the numpy matrices of gradients, weights, etc..
