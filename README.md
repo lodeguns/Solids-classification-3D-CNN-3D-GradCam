@@ -15,6 +15,10 @@ python solid_generator.py
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
 
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.jpg" height="250" width="250"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.jpg" height="250" width="250">
+
+
+
 ### Model and Execution
 The model and the training is written in the script_v0.3 on a Jupyter Notebook.
 
