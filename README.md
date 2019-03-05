@@ -1,9 +1,11 @@
 # Solids-classification-3D-CNN-3D-GradCam
-Here we introduce the problem of 3D solids classification (spheres and octahedra) through a 3D CNN.
+Here we introduce the problem of 3D CNN solids classification (spheres and octahedra).
 
-The source is written in tensorflow/python.
 
-We implemented a 3D GradCam model, in order to underline the most relevant 3D volumes of the original image that are useful for the classification.
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.png" height="250" width="350"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.png" height="250" width="350">
+
+
+Furthermore, we implemented a 3D GradCam model, in order to underline the most relevant 3D volumes of the original image that are useful for the classification.
 
 
 ### Solid Generator
@@ -14,8 +16,6 @@ python solid_generator.py
 ```
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
-
-<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.png" height="250" width="350"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.png" height="250" width="350">
 
 
 
