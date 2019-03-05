@@ -28,6 +28,8 @@ Python version: 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
 
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
+The model is so simple that reach the 100% of accuracy on the test set in the 4th epoch. 
+
 ### Test the features
 Once you run the model, in the training are saved all the numpy matrices of gradients, weights, etc..
 these one could be checked with the script test_feature.py. Whit this script you can walk around the filters and check in which way the CNN works.
