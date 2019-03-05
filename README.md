@@ -9,7 +9,7 @@ Furthermore, we implemented a 3D GradCam model, in order to underline the most r
 
 
 ### Solid Generator
-This script generates solids and octahedra (for the test and training set) depending on the max size of the solid and its diameter. The positions (x,y,z) in the space NxNxN are given randomly and the voxels intensities inside the solid are chosen randomly.
+This script generates spheres and octahedra (for the test and training set) depending on the max size of the solid and its diameter. The positions (x,y,z) in the space NxNxN are given randomly and the voxels intensities inside the solids are chosen randomly in a fixed interval.
 
 ``` 
 python solid_generator.py
