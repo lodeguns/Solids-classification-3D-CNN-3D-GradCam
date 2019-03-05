@@ -34,7 +34,7 @@ Python version: 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
 
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
-The model is so simple that reach the 100% of accuracy on the test set in the 4th epoch. 
+The problem is so simple that reach the 100% of accuracy on the test set in the 4th epoch. 
 
 ### Test the features
 Once you run the model, in the training are saved all the numpy matrices of gradients, weights, etc..
@@ -54,6 +54,9 @@ With simple set-ups is possible to visualize (positive-negative) gradients of th
 python plot_gradcam.py
 ```
 <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/gradcam.gif" height="350" width="550">
+
+
+We disclaim any responsibility for this post. It is only an exercise on neural networks in 3D spaces.
 
 
 
