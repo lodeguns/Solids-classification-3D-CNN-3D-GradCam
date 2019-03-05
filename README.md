@@ -62,8 +62,10 @@ We disclaim any responsibility for this post. It is only an exercise on neural n
 
 @NeuroneLab - University of Salerno
 
-Francesco Bardozzo (fbardozzo@unisa.it)
+dott. Francesco Bardozzo (fbardozzo@unisa.it)
 
-Gioele Ciaparrone  (gciaparrone@unisa.it)
+dott. Gioele Ciaparrone  (gciaparrone@unisa.it)
 
-Mattia Delli Priscoli (mdellipriscoli@unisa.it)
+dott. Mattia Delli Priscoli (mdellipriscoli@unisa.it)
+
+Prof. Roberto Tagliaferri    (robtag@unisa.it)
