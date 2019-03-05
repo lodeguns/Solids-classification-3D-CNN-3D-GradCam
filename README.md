@@ -45,7 +45,7 @@ python test_feature.py
 ```
 Such for example here are shown, for a sphere and an octahedron, 2 CNN filters given in the first convolutional layer:
 
-<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif" height="250" width="250"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif" height="250" width="250">
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif" height="250" width="350"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif" height="250" width="350">
 
 ### 3D Grad Cam
 
