@@ -45,7 +45,7 @@ With simple set-ups is possible to visualize (positive-negative) gradients of th
 ``` 
 python plot_gradcam.py
 ```
-<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/gradcam.gif" height="350" width="350">
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/gradcam.gif" height="350" width="550">
 
 
 
