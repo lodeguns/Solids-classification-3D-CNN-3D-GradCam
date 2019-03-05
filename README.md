@@ -35,6 +35,9 @@ these one could be checked with the script test_feature.py. Whit this script you
 ``` 
 python test_feature.py
 ```
+Such for example here are shown, for a sphere and an octahedron, 2 CNN filters given in the first convolutional layer:
+
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif" height="250" width="250"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif" height="250" width="250">
 
 ### 3D Grad Cam
 
@@ -43,7 +46,7 @@ With simple set-ups is possible to visualize (positive-negative) gradients of th
 python plot_gradcam.py
 ```
 
-<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif" height="250" width="250"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif" height="250" width="250">
+
 
 
 @NeuroneLab - University of Salerno
