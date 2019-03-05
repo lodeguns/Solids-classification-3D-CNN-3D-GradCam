@@ -15,7 +15,7 @@ python solid_generator.py
 Set in your experiment the folders: data_solid, test_solid, labels_solid.
 
 
-<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.png" height="250" width="250"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.png" height="250" width="250">
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.png" height="250" width="350"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.png" height="250" width="350">
 
 
 
