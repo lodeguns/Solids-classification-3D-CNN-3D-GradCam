@@ -22,7 +22,9 @@ Set in your experiment the folders: data_solid, test_solid, labels_solid.
 ### Model and Execution
 The model and the training is written in the script_v0.3 on a Jupyter Notebook.
 
-We have done the experiment on a NVIDIA GeForce 1070 and with this environment:
+We have done the experiment on a **NVIDIA GeForce 1070**.
+
+**Environment:**
 ``` 
 Tensorflow version: 1.8.0
 Python version: 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44) 
