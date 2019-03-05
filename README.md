@@ -1,5 +1,5 @@
 # Solids-classification-3D-CNN-3D-GradCam
-Here we introduce the problem of 3D CNN solids classification (spheres and octahedra).
+Here we introduce the problem of **3D CNN solids classification** (spheres and octahedra).
 
 
 <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/sfera.png" height="250" width="350"> <img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/img/octahedron.png" height="250" width="350">
