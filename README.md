@@ -43,7 +43,10 @@ With simple set-ups is possible to visualize (positive-negative) gradients of th
 python plot_gradcam.py
 ```
 
-![a CNN spheres filter ](https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif | width=100) ![a CNN octahedra filter](https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif| width=100)
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage.gif" height="24" width="48">
+<img src="https://github.com/lodeguns/Solids-classification-3D-CNN-3D-GradCam/blob/master/myimage2.gif" height="24" width="48">
+
+
 @NeuroneLab - University of Salerno
 
 Francesco Bardozzo (fbardozzo@unisa.it)
