@@ -68,6 +68,4 @@ dott. Gioele Ciaparrone  (gciaparrone@unisa.it)
 
 dott. Mattia Delli Priscoli (mdellipriscoli@unisa.it)
 
-Prof. Luigi Troiano
-
 Prof. Roberto Tagliaferri    (robtag@unisa.it)
